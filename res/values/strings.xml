@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TugasTebak Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pingsan">PingsanActivity</string>
+    <string name="title_activity_demam_panggung">DemamPanggungActivity</string>
+    <string name="title_activity_pocong">PocongActivity</string>
+    <string name="title_activity_judika">JudikaActivity</string>
+    <string name="title_activity_kunci_inggris">KunciInggrisActivity</string>
+    <string name="title_activity_mata_panda">MataPandaActivity</string>
+    <string name="title_activity_motor_bebek">MotorBebekActivity</string>
+    <string name="title_activity_srikaya">SrikayaActivity</string>
+    <string name="title_activity_ikan_mas">IkanMasActivity</string>
+    <string name="title_activity_motor">MotorActivity</string>
+    <string name="title_activity_ikan">IkanActivity</string>
+    <string name="title_activity_ending">Ending</string>
+
+</resources>

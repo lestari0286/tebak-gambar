@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Lestari.tugastebakgambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PingsanActivity"
+            android:label="@string/title_activity_pingsan" >
+        </activity>
+        <activity
+            android:name=".DemamPanggungActivity"
+            android:label="@string/title_activity_demam_panggung" >
+        </activity>
+        <activity
+            android:name=".PocongActivity"
+            android:label="@string/title_activity_pocong" >
+        </activity>
+        <activity
+            android:name=".JudikaActivity"
+            android:label="@string/title_activity_judika" >
+        </activity>
+        <activity
+            android:name=".KunciInggrisActivity"
+            android:label="@string/title_activity_kunci_inggris" >
+        </activity>
+        <activity
+            android:name=".MataPandaActivity"
+            android:label="@string/title_activity_mata_panda" >
+        </activity>
+        <activity
+            android:name=".MotorBebekActivity"
+            android:label="@string/title_activity_motor_bebek" >
+        </activity>
+        <activity
+            android:name=".SrikayaActivity"
+            android:label="@string/title_activity_srikaya" >
+        </activity>
+        <activity
+            android:name=".IkanMasActivity"
+            android:label="@string/title_activity_ikan_mas" >
+        </activity>
+        <activity
+            android:name=".MotorActivity"
+            android:label="@string/title_activity_motor" >
+        </activity>
+        <activity
+            android:name=".IkanActivity"
+            android:label="@string/title_activity_ikan" >
+        </activity>
+        <activity
+            android:name=".Ending"
+            android:label="@string/title_activity_ending" >
+        </activity>
+    </application>
+
+</manifest>
